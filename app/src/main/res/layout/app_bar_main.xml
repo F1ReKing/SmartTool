@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="me.f1reking.smart_tool.MainActivity"
+    tools:context="me.f1reking.smart_tool.module.main.MainActivity"
     >
 
     <android.support.design.widget.AppBarLayout
@@ -33,7 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/fab_margin"
-        app:srcCompat="@android:drawable/ic_dialog_email"
+        app:srcCompat="@drawable/heart"
         />
 
 </android.support.design.widget.CoordinatorLayout>
